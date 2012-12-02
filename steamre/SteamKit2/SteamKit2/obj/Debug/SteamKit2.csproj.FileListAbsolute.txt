@@ -1,0 +1,14 @@
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\3rd party.txt
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\gpl.txt
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\lgpl.txt
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\license.txt
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\SteamKit2.dll
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\SteamKit2.pdb
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\protobuf-net.dll
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\protobuf-net.pdb
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\protobuf-net.xml
+H:\steamre\SteamKit2\SteamKit2\obj\Debug\ResolveAssemblyReference.cache
+H:\steamre\SteamKit2\SteamKit2\obj\Debug\SteamKit2.dll
+H:\steamre\SteamKit2\SteamKit2\obj\Debug\SteamKit2.pdb
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\changes.txt
+H:\steamre\SteamKit2\SteamKit2\bin\Debug\SteamKit2.XML

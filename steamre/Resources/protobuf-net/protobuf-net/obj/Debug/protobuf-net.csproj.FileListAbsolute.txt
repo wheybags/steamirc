@@ -1,0 +1,6 @@
+H:\steamre\Resources\protobuf-net\protobuf-net\bin\Debug\Licence.txt
+H:\steamre\Resources\protobuf-net\protobuf-net\bin\Debug\protobuf-net.dll
+H:\steamre\Resources\protobuf-net\protobuf-net\bin\Debug\protobuf-net.pdb
+H:\steamre\Resources\protobuf-net\protobuf-net\obj\Debug\ResolveAssemblyReference.cache
+H:\steamre\Resources\protobuf-net\protobuf-net\obj\Debug\protobuf-net.dll
+H:\steamre\Resources\protobuf-net\protobuf-net\obj\Debug\protobuf-net.pdb

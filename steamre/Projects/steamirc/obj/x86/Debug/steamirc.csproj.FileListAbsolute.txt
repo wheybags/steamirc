@@ -1,0 +1,20 @@
+H:\steamre\Projects\steamirc\bin\Debug\3rd party.txt
+H:\steamre\Projects\steamirc\bin\Debug\gpl.txt
+H:\steamre\Projects\steamirc\bin\Debug\lgpl.txt
+H:\steamre\Projects\steamirc\bin\Debug\license.txt
+H:\steamre\Projects\steamirc\bin\Debug\steamirc.exe
+H:\steamre\Projects\steamirc\bin\Debug\steamirc.pdb
+H:\steamre\Projects\steamirc\bin\Debug\SteamKit2.dll
+H:\steamre\Projects\steamirc\bin\Debug\protobuf-net.dll
+H:\steamre\Projects\steamirc\bin\Debug\SteamKit2.pdb
+H:\steamre\Projects\steamirc\bin\Debug\SteamKit2.xml
+H:\steamre\Projects\steamirc\bin\Debug\protobuf-net.pdb
+H:\steamre\Projects\steamirc\bin\Debug\protobuf-net.xml
+H:\steamre\Projects\steamirc\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\steamre\Projects\steamirc\obj\x86\Debug\steamirc.exe
+H:\steamre\Projects\steamirc\obj\x86\Debug\steamirc.pdb
+H:\steamre\Projects\steamirc\bin\Debug\changes.txt
+H:\steamirc\obj\x86\Debug\steamirc.exe
+H:\steamirc\obj\x86\Debug\steamirc.pdb
+H:\steamirc\steamre\Projects\steamirc\obj\x86\Debug\steamirc.exe
+H:\steamirc\steamre\Projects\steamirc\obj\x86\Debug\steamirc.pdb

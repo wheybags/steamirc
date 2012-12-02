@@ -1,0 +1,5 @@
+H:\steamre\Resources\SteamLanguageParser\bin\Debug\SteamLanguageParser.exe
+H:\steamre\Resources\SteamLanguageParser\bin\Debug\SteamLanguageParser.pdb
+H:\steamre\Resources\SteamLanguageParser\obj\Debug\ResolveAssemblyReference.cache
+H:\steamre\Resources\SteamLanguageParser\obj\Debug\SteamLanguageParser.exe
+H:\steamre\Resources\SteamLanguageParser\obj\Debug\SteamLanguageParser.pdb
